@@ -3,7 +3,7 @@ import asyncio
 import os
 from youtubedownload import download_video
 
-bot = Bot(token="8253139634:AAEWU69GFztzX6zXinWzDdIapJBoR75Uyd4")
+bot = Bot(token="Your bot token")
 dp = Dispatcher()
 
 main_lang = 'uz'
